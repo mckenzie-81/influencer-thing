@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "creator-1",
+      "description": "Profile picture of a creator",
+      "imageUrl": "https://images.unsplash.com/photo-1719087358997-12957d0859e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzYyNDk0NDg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "creator-2",
+      "description": "Profile picture of a creator",
+      "imageUrl": "https://images.unsplash.com/photo-1624395213043-fa2e123b2656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MTg2MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "creator-3",
+      "description": "Profile picture of a creator",
+      "imageUrl": "https://images.unsplash.com/photo-1584598788860-2695a3a6c874?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjB0aGlua2luZ3xlbnwwfHx8fDE3NjI1MDE3MjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person thinking"
+    },
+    {
+      "id": "creator-4",
+      "description": "Profile picture of a creator",
+      "imageUrl": "https://images.unsplash.com/photo-1592621385645-e41659e8aabe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBsYXVnaGluZ3xlbnwwfHx8fDE3NjI0NjMxMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman laughing"
+    },
+    {
+      "id": "creator-5",
+      "description": "Profile picture of a creator",
+      "imageUrl": "https://images.unsplash.com/photo-1569779213435-ba3167dde7cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYW4lMjBnbGFzc2VzfGVufDB8fHx8MTc2MjM4OTc0NXww&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "man glasses"
+    },
+    {
+      "id": "creator-6",
+      "description": "Profile picture of a creator",
+      "imageUrl": "https://images.unsplash.com/photo-1464746133101-a2c3f88e0dd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBuYXR1cmV8ZW58MHx8fHwxNzYyNDgxODYwfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "person nature"
+    },
+    {
+      "id": "hero-background",
+      "description": "A stylish, modern workspace or creative environment.",
+      "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtb2Rlcm4lMjBvZmZpY2V8ZW58MHx8fHwxNzYyNjA3ODc4fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern office"
+    },
+    {
+      "id": "hero-3",
+      "description": "Abstract background with light and shadow.",
+      "imageUrl": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGJhY2tncm91bmR8ZW58MHx8fHwxNzYyNjA4MDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract background"
+    }
+  ]
+}
